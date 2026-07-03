@@ -1,0 +1,13 @@
+# Binaries
+*.exe
+*.test
+
+# Go
+go.sum
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
